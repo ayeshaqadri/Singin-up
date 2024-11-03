@@ -1,3 +1,7 @@
+.apna{
+    background-size:cover;
+    background-repeat: no-repeat;
+}
 #color-styling {
     color: rgba(163, 163, 163, 0.587);
 }
@@ -7,6 +11,7 @@
 }
 
 #box {
+
     background: transparent;
     border: 1px solid rgb(102, 53, 250);
     backdrop-filter: blur(5px);
